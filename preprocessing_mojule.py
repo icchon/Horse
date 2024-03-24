@@ -5,6 +5,9 @@ from sklearn.pipeline import Pipeline
 import pandas as pd
 import numpy as np
 
+def add_func(x):
+    return x
+
 
 class Eliminator(TransformerMixin):
     def __init__(self, features):
