@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+lightgbm
+imblearn
+requests
+beautifulsoup4
+japanize-matplotlib
